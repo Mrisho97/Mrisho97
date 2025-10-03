@@ -2,14 +2,15 @@
 
 💻 **Full-Stack Java Developer** (Spring Boot & Android) | 🌐 **Web Developer** (React.js) | 🗄️ **Database Administrator**  
 📍 Dar es Salaam, Tanzania  
+📞 Contact: 0746123231
 
 ---
 
-## 🛠️ Skills
-- **Backend:** Java, Spring Boot, REST APIs, SQL Server, MySQL  
+## 🛠️ Skills 
+- **Backend:** Java, Spring Boot, REST APIs, Microsoft SQL Server, MySQL, PostgreSQL  
 - **Mobile:** Android Studio, Java, Firebase  
 - **Frontend:** React.js, HTML, CSS, JavaScript  
-- **Database:** SQL Server, MySQL  
+- **Database:** SQL Server, MySQL, PostgreSQL  
 - **Version Control:** Git & GitHub  
 
 ---
