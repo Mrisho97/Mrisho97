@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Mrisho Habibu
 
-<!--
-**Mrisho97/Mrisho97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full-Stack Java Developer** (Spring Boot & Android) | 🌐 **Web Developer** (React.js) | 🗄️ **Database Administrator**  
+📍 Dar es Salaam, Tanzania  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Backend:** Java, Spring Boot, REST APIs, SQL Server, MySQL  
+- **Mobile:** Android Studio, Java, Firebase  
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Database:** SQL Server, MySQL  
+- **Version Control:** Git & GitHub  
+
+---
+
+## 📱 Connect with me
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=100056551785984)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mr_mrisho6/)
+
+---
